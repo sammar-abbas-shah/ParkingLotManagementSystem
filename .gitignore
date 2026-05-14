@@ -1,0 +1,25 @@
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse specific
+.project
+.classpath
+.settings/
+bin/
+target/
+
+# IntelliJ IDEA (if you ever use it)
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
